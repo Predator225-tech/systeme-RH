@@ -4,16 +4,19 @@ namespace App\Controllers;
 
 use App\Models\Employe;
 use App\Models\Departement;
+use App\Models\TypeCongeModel;
 
 class Admin extends BaseController
 {
     protected $employeModel;
     protected $departementModel;
+    protected $typeCongeModel;
 
     public function __construct()
     {
         $this->employeModel = new Employe();
         $this->departementModel = new Departement();
+        $this->typeCongeModel = new TypeCongeModel();
     }
 
     /**
@@ -26,6 +29,7 @@ class Admin extends BaseController
             'totalEmployes' => $this->employeModel->countAll(),
             'totalDepartements' => $this->departementModel->countAll(),
             'employesActifs' => $this->employeModel->where('actif', 1)->countAllResults(),
+            'totalTypesConge' => $this->typeCongeModel->countAll(),
         ];
 
         return view('admin/index', $data);

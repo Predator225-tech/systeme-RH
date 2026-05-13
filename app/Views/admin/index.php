@@ -32,6 +32,16 @@
     <div class="metric-val"><?= esc($employesActifs) ?></div>
     <div class="metric-label">Employés Actifs</div>
   </div>
+
+  <div class="metric">
+    <div class="metric-top">
+      <div class="metric-icon mi-blue">
+        <i class="bi bi-list-check"></i>
+      </div>
+    </div>
+    <div class="metric-val"><?= esc($totalTypesConge ?? 0) ?></div>
+    <div class="metric-label">Types de congé</div>
+  </div>
 </div>
 
 <div class="data-card">
@@ -47,6 +57,9 @@
       <a href="/admin/departements" class="btn-secondary">
         <i class="bi bi-plus-lg"></i> Gérer les Départements
       </a>
+        <a href="/admin/types_conge" class="btn-secondary">
+          <i class="bi bi-plus-lg"></i> Gérer les Types de congé
+        </a>
     </div>
   </div>
 </div>

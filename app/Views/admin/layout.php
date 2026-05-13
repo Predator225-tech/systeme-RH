@@ -139,6 +139,7 @@ code,pre,.mono{font-family:'DM Mono',monospace}
       <li><a href="/admin" class="<?= (current_url(true)->getPath() === '/admin') ? 'active' : '' ?>"><i class="bi bi-speedometer2"></i> Tableau de bord</a></li>
       <li><a href="/admin/employes" class="<?= (strpos(current_url(true)->getPath(), '/admin/employes') === 0) ? 'active' : '' ?>"><i class="bi bi-people"></i> Employés</a></li>
       <li><a href="/admin/departements" class="<?= (strpos(current_url(true)->getPath(), '/admin/departements') === 0) ? 'active' : '' ?>"><i class="bi bi-diagram-3"></i> Départements</a></li>
+      <li><a href="/admin/types_conge" class="<?= (strpos(current_url(true)->getPath(), '/admin/types_conge') === 0) ? 'active' : '' ?>"><i class="bi bi-list-check"></i> Types de congé</a></li>
     </nav>
 
     <div style="margin-top:auto;padding:.85rem .75rem;border-top:1px solid rgba(255,255,255,.06)">
