@@ -11,7 +11,7 @@ class TypeConge extends BaseController
 
     public function __construct()
     {
-        $this->model = new TypeCongeModel();
+        $this->model = new TypeConoogeModel();
     }
 
     public function index()

@@ -1,0 +1,3 @@
+Pour employe, on se connecte en tant qu'admin et on créé
+Pour admin,admin@gmail.com, password
+Pour RH,rh@gmail.com,password

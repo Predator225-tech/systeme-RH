@@ -40,3 +40,18 @@ $routes->group('admin', static function ($routes) {
     $routes->post('types_conge/update/(:num)', 'TypeConge::update/$1');
     $routes->get('types_conge/delete/(:num)', 'TypeConge::delete/$1');
 });
+
+$routes->get('login', 'Auth::login');
+$routes->post('login', 'Auth::login');
+$routes->get('logout', 'Auth::logout');
+
+$routes->group('user', static function($routes) {
+    $routes->get('/', 'User::index');
+    $routes->get('demander', 'User::demander');
+    $routes->post('store', 'User::store');
+});
+
+$routes->group('rh', static function($routes) {
+    $routes->get('/', 'Rh::index');
+    $routes->post('traiter/(:num)', 'Rh::traiter/$1');
+});

@@ -56,3 +56,8 @@ CREATE TABLE conges (
     FOREIGN KEY (type_conge_id) REFERENCES types_conge(id) ON DELETE CASCADE,
     FOREIGN KEY (traite_par) REFERENCES employes(id) ON DELETE SET NULL
 );
+
+INSERT INTO employes (nom, prenom, email, password, role, departement_id, date_embauche, actif)
+VALUES 
+('Admin', 'Super', 'admin@gmail.com', 'HASH_ADMIN', 'admin', 1, '2024-01-01', 1),
+('RH', 'Responsable', 'rh@gmail.com', 'HASH_RH', 'rh', 1, '2024-01-01', 1);
