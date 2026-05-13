@@ -1,0 +1,748 @@
+CRITICAL - 2026-04-15 07:09:41 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:44 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:45 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:45 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:45 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:45 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:45 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:45 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:46 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:46 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:46 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:46 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:46 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:46 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:47 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:09:47 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:10:19 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:10:20 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:10:20 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:10:20 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:10:20 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:10:20 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:10:58 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:10:59 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:10:59 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:10:59 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:11:00 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:11:00 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:11:00 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:11:00 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:11:43 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:12:09 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:12:09 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:12:09 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:12:09 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:12:10 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Router/Router.php(792): class_exists()
+ 5 SYSTEMPATH/Router/Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH/CodeIgniter.php(829): CodeIgniter\Router\Router->handle()
+ 7 SYSTEMPATH/CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2026-04-15 07:36:44 --> Error: Class "App\Controllers\ProduitModel" not found
+[Method: GET, Route: produits]
+in APPPATH/Controllers/ProduitController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+ERROR - 2026-04-15 07:39:29 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php(201): mysqli->real_connect()
+#1 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+#4 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/app/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+#7 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+#8 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+#9 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php(59): CodeIgniter\Boot::bootWeb()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+#3 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/app/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+#6 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+#7 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+#8 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php(59): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2026-04-15 07:39:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+[Method: GET, Route: produits]
+in SYSTEMPATH/Database/BaseConnection.php on line 606.
+ 1 SYSTEMPATH/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+ERROR - 2026-04-15 07:39:30 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php(201): mysqli->real_connect()
+#1 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+#4 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/app/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+#7 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+#8 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+#9 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php(59): CodeIgniter\Boot::bootWeb()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+#3 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/app/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+#6 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+#7 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+#8 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php(59): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2026-04-15 07:39:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+[Method: GET, Route: produits]
+in SYSTEMPATH/Database/BaseConnection.php on line 606.
+ 1 SYSTEMPATH/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+ERROR - 2026-04-15 07:39:30 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php(201): mysqli->real_connect()
+#1 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+#4 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/app/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+#7 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+#8 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+#9 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php(59): CodeIgniter\Boot::bootWeb()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+#3 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/app/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+#6 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+#7 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+#8 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php(59): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2026-04-15 07:39:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+[Method: GET, Route: produits]
+in SYSTEMPATH/Database/BaseConnection.php on line 606.
+ 1 SYSTEMPATH/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+ERROR - 2026-04-15 07:39:30 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php(201): mysqli->real_connect()
+#1 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+#4 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/app/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+#7 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+#8 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+#9 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php(59): CodeIgniter\Boot::bootWeb()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+#3 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/app/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+#6 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+#7 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+#8 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php(59): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2026-04-15 07:39:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+[Method: GET, Route: produits]
+in SYSTEMPATH/Database/BaseConnection.php on line 606.
+ 1 SYSTEMPATH/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
+ERROR - 2026-04-15 07:42:14 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php(201): mysqli->real_connect()
+#1 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+#4 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/app/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+#7 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+#8 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+#9 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+#12 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php(59): CodeIgniter\Boot::bootWeb()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+#3 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/app/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+#6 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+#7 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+#8 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/lavi/CodeIgniter/codeigniter4-framework-v4.7.2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php(59): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2026-04-15 07:42:14 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+[Method: GET, Route: produits]
+in SYSTEMPATH/Database/BaseConnection.php on line 606.
+ 1 SYSTEMPATH/Database/BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(253): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Controllers/ProduitController.php(15): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\ProduitController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
