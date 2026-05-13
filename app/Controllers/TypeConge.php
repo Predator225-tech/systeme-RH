@@ -17,12 +17,14 @@ class TypeConge extends BaseController
     public function index()
     {
         $data['types'] = $this->model->findAll();
-        echo view('types_conge/index', $data);
+        $data['title'] = 'Types de congé';
+        return view('types_conge/index', $data);
     }
 
     public function create()
     {
-        echo view('types_conge/create');
+        $data['title'] = 'Ajouter un type de congé';
+        return view('types_conge/create', $data);
     }
 
     public function store()
@@ -32,13 +34,14 @@ class TypeConge extends BaseController
         ]);
 
         $this->model->insert($data);
-        return redirect()->to('/types_conge');
+        return redirect()->to('/admin/types_conge');
     }
 
     public function edit($id)
     {
         $data['type'] = $this->model->find($id);
-        echo view('types_conge/edit', $data);
+        $data['title'] = 'Modifier le type de congé';
+        return view('types_conge/edit', $data);
     }
 
     public function update($id)
@@ -48,12 +51,12 @@ class TypeConge extends BaseController
         ]);
 
         $this->model->update($id, $data);
-        return redirect()->to('/types_conge');
+        return redirect()->to('/admin/types_conge');
     }
 
     public function delete($id)
     {
         $this->model->delete($id);
-        return redirect()->to('/types_conge');
+        return redirect()->to('/admin/types_conge');
     }
 }

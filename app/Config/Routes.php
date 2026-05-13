@@ -20,6 +20,10 @@ $routes->group('admin', static function ($routes) {
     $routes->post('employes/update/(:num)', 'Admin::updateEmploye/$1');
     $routes->get('employes/delete/(:num)', 'Admin::deleteEmploye/$1');
 
+    // Soldes
+    $routes->get('employes/(:num)/soldes', 'Admin::soldes/$1');
+    $routes->post('employes/(:num)/soldes/update', 'Admin::updateSoldes/$1');
+
     // Départements
     $routes->get('departements', 'Admin::departements');
     $routes->get('departements/create', 'Admin::createDepartement');
